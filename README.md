@@ -4,7 +4,7 @@
   <p align="center">
     A counter app made using Reactjs, Redux and Tailwind CSS
     <br />
-    <a href="">View Demo</a>
+    <a href="https://redux-counter-pi.vercel.app/">View Demo</a>
     ·
     <a href="https://github.com/karantondare/redux-counter/issues">Report Bug</a>
     ·
